@@ -2,6 +2,7 @@
 
 import { useScrollSmoother } from "@/hooks/useScrollSmoother";
 import ScrollThumb from "@/components/ScrollThumb";
+import Intro from "@/sections/intro";
 
 export default function Home() {
 	useScrollSmoother();
@@ -9,9 +10,8 @@ export default function Home() {
 		<main>
 			<div id="smooth-wrapper">
 				<div id="smooth-content">
-					<h1 className=" text-6xl">
-						curology
-					</h1>
+					<h1 className=" text-6xl">curology</h1>
+					<Intro />
 				</div>
 			</div>
 			<ScrollThumb />
