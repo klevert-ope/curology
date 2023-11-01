@@ -1,20 +1,28 @@
 "use client";
 
-import { useScrollSmoother } from "@/hooks/useScrollSmoother";
-import ScrollThumb from "@/components/ScrollThumb";
-import Intro from "@/sections/intro";
+import { useScrollSmoother } from "@/hooks/ui/useScrollSmoother";
+import ScrollThumb from "@/components/ui/ScrollThumb";
+import Intro from "@/components/sections/intro";
+import {
+	QueryClient,
+	QueryClientProvider,
+} from "react-query";
 
+const queryClient = new QueryClient();
 export default function Home() {
 	useScrollSmoother();
 	return (
-		<main>
-			<div id="smooth-wrapper">
-				<div id="smooth-content">
-					<h1 className=" text-6xl">curology</h1>
-					<Intro />
+		<>
+			<QueryClientProvider client={queryClient}>
+				<div id="smooth-wrapper">
+					<div id="smooth-content">
+						<main>
+							<Intro />
+						</main>
+					</div>
 				</div>
-			</div>
-			<ScrollThumb />
-		</main>
+				<ScrollThumb />
+			</QueryClientProvider>
+		</>
 	);
 }
