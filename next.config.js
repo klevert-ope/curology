@@ -2,7 +2,16 @@
 
 const nextConfig = {
 	images: {
-		domains: ["essmnbcneybekiriuadi.supabase.co"],
+		remotePatterns: [
+			{
+				protocol: "https",
+				hostname: "essmnbcneybekiriuadi.supabase.co",
+			},
+		],
+	},
+	env: {
+		SUPABASE_URL: process.env.SUPABASE_URL,
+		SUPABASE_KEY: process.env.SUPABASE_KEY,
 	},
 };
 
