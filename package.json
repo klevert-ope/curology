@@ -1,28 +1,30 @@
 {
-	"name": "curology",
-	"version": "0.1.0",
-	"private": true,
-	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "next lint"
-	},
-	"dependencies": {
-		"@supabase/supabase-js": "^2.38.4",
-		"gsap": "npm:@gsap/shockingly@^3.12.2",
-		"next": "14.0.0",
-		"normalize.css": "^8.0.1",
-		"react": "^18.2.0",
-		"react-content-loader": "^6.2.1",
-		"react-dom": "^18.2.0",
-		"react-query": "^3.39.3"
-	},
-	"devDependencies": {
-		"autoprefixer": "^10.4.16",
-		"eslint": "^8.52.0",
-		"eslint-config-next": "14.0.0",
-		"postcss": "^8.4.31",
-		"tailwindcss": "^3.3.5"
-	}
+  "name": "curology",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4",
+    "gsap": "npm:@gsap/shockingly@^3.12.2",
+    "next": "14.0.1",
+    "normalize.css": "^8.0.1",
+    "plaiceholder": "^3.0.0",
+    "react": "^18.2.0",
+    "react-content-loader": "^6.2.1",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.53.0",
+    "eslint-config-next": "14.0.1",
+    "postcss": "^8.4.31",
+    "prettier": "^3.0.3",
+    "tailwindcss": "^3.3.5"
+  }
 }

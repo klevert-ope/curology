@@ -13,4 +13,3 @@ export async function fetchImage(imagePath) {
 
     return data.signedUrl;
 }
-
