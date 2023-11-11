@@ -1,18 +1,18 @@
-import {fetchImage} from '@/api/FetchImage';
-import {useQuery} from 'react-query';
+import { fetchImage } from "@/api/FetchImage";
+import { useQuery } from "react-query";
 
 export function useImageFetcher(src) {
-	const queryKey = ['image', src];
+  const queryKey = ["image", src];
 
-	const {
-		data: imageUrl,
-		isLoading,
-		error,
-	} = useQuery(queryKey, () => fetchImage(src), {enabled: !!src,});
+  const {
+    data: imageUrl,
+    isLoading,
+    error
+  } = useQuery(queryKey, () => fetchImage(src), { enabled: !!src });
 
-	return {
-		imageUrl,
-		isLoading,
-		error,
-	};
+  return {
+    imageUrl,
+    isLoading,
+    error
+  };
 }
