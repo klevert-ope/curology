@@ -1,8 +1,8 @@
 {
   "name": "curology",
   "version": "0.1.0",
+  "license": "ISC",
   "private": true,
-  "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,23 +10,32 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gsap/react": "^2.0.2",
     "@react-hook/event": "^1.2.6",
-    "@supabase/supabase-js": "^2.38.4",
+    "@supabase/supabase-js": "^2.39.1",
+    "@tanstack/react-query": "^5.15.3",
     "gsap": "./gsap-bonus.tgz",
-    "hls.js": "^1.4.12",
-    "next": "14.0.3",
-    "normalize.css": "^8.0.1",
+    "hls.js": "^1.4.14",
+    "next": "14.0.4",
     "react": "^18.2.0",
-    "react-content-loader": "^6.2.1",
     "react-dom": "^18.2.0",
-    "react-query": "^3.39.3"
+    "react-icons": "^4.12.0",
+    "scrollthumb": "^1.2.6",
+    "sharp": "^0.32.6",
+    "use-scrollsmoother": "^1.2.6",
+    "usehlsvideoplayer": "^1.2.6"
   },
   "devDependencies": {
+    "@tanstack/react-query-devtools": "^5.15.3",
+    "@types/react": "18.2.46",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
     "autoprefixer": "^10.4.16",
-    "eslint": "^8.54.0",
-    "eslint-config-next": "14.0.3",
-    "postcss": "^8.4.31",
-    "prettier": "^3.1.0",
-    "tailwindcss": "^3.3.5"
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.32",
+    "prettier": "^3.1.1",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3"
   }
 }
