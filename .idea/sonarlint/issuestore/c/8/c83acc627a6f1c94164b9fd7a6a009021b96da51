@@ -1,0 +1,72 @@
+
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¢ŸŒ†ıÿÿÿÿ
+Jjavascript:S3504")Unexpected var, use let or const instead.(¢ŸŒ†ıÿÿÿÿ
+Jjavascript:S3504")Unexpected var, use let or const instead.(¢ŸŒ†ıÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¢ŸŒ†ıÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÒÍ‡Ãşÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÒÍ‡Ãşÿÿÿÿ
+Jjavascript:S3504")Unexpected var, use let or const instead.(²šËáúÿÿÿÿ
+Jjavascript:S35042")Unexpected var, use let or const instead.(™¬ÛÁÿÿÿÿÿ
+Ejavascript:S3504K")Unexpected var, use let or const instead.(«ñŞ›
+Djavascript:S3504X")Unexpected var, use let or const instead.(É®½M
+vjavascript:S3776Y"URefactor this function to reduce its Cognitive Complexity from 392 to the 15 allowed.(°‹„üıÿÿÿÿ
+Ejavascript:S3504Z")Unexpected var, use let or const instead.(É÷ìŸ
+|javascript:S6582^"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ØÜôÍıÿÿÿÿ
+Jjavascript:S3504c")Unexpected var, use let or const instead.(õ«‚¿şÿÿÿÿ
+ejavascript:S3358|"DExtract this nested ternary operation into an independent statement.(¤†¤üÿÿÿÿ
+ejavascript:S3358|"DExtract this nested ternary operation into an independent statement.(¤†¤üÿÿÿÿ
+ejavascript:S1121‰"HExtract the assignment of "content.style.overflow" from this expression.(×˜„
+Kjavascript:S3504")Unexpected var, use let or const instead.(êãÆæüÿÿÿÿ
+;javascript:S125 "Remove this commented out code.(·×§Å
+Wjavascript:S1121±":Extract the assignment of "currentY" from this expression.(º®Ïï
+Fjavascript:S3504»")Unexpected var, use let or const instead.(…–ì®
+}javascript:S6582Æ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ñı—úÿÿÿÿ
+Kjavascript:S3504Ó")Unexpected var, use let or const instead.(òÌŞàşÿÿÿÿ
+xjavascript:S6582Ù"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¡«»›
+ajavascript:S3358Ù"DExtract this nested ternary operation into an independent statement.(¡«»›
+Kjavascript:S3504í")Unexpected var, use let or const instead.(ÍÎ®Üşÿÿÿÿ
+Fjavascript:S3504³")Unexpected var, use let or const instead.(ë òÿ
+Kjavascript:S3504¼")Unexpected var, use let or const instead.(Æ“Ï±ÿÿÿÿÿ
+fjavascript:S3358Ç"DExtract this nested ternary operation into an independent statement.(öÖÍúÿÿÿÿ
+}javascript:S6582Ù"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(šÖ˜´üÿÿÿÿ
+}javascript:S6582Ş"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(°Æëüÿÿÿÿ
+Fjavascript:S3504å")Unexpected var, use let or const instead.(¡›úÃ
+Kjavascript:S3504è")Unexpected var, use let or const instead.(³¦Êÿÿÿÿÿ
+Fjavascript:S3504ò")Unexpected var, use let or const instead.(¤ºìÓ
+xjavascript:S6582‚"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ì¡áÓ
+ajavascript:S3358‚"DExtract this nested ternary operation into an independent statement.(ì¡áÓ
+xjavascript:S6582‚"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ì¡áÓ
+}javascript:S6582ƒ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ãˆ©øÿÿÿÿ
+Fjavascript:S3504›")Unexpected var, use let or const instead.(ƒıÔ
+Zjavascript:S1121¥"8Extract the assignment of "change" from this expression.(ÄŠÏÁüÿÿÿÿ
+}javascript:S6582©"[Prefer using an optional chain expression instead, as it's more concise and easier to read.( ‰ıùÿÿÿÿ
+fjavascript:S3358µ"DExtract this nested ternary operation into an independent statement.(°ñÔüÿÿÿÿ
+Fjavascript:S3504¾")Unexpected var, use let or const instead.(²ì³¡
+Fjavascript:S3504Ã")Unexpected var, use let or const instead.(Ûœª°
+`javascript:S1121‰">Extract the assignment of "startupPhase" from this expression.(ÀğÑÎùÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(ÅËŸ–
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(Œ›Úúùÿÿÿÿ
+Fjavascript:S3504™")Unexpected var, use let or const instead.(ñˆ£æ
+Kjavascript:S3504µ")Unexpected var, use let or const instead.(ü…”²ûÿÿÿÿ
+}javascript:S6582º"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ÿú–©ûÿÿÿÿ
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(¶ùÏŸÿÿÿÿÿ
+Kjavascript:S3504õ")Unexpected var, use let or const instead.(‰¼›”ûÿÿÿÿ
+Kjavascript:S3504ü")Unexpected var, use let or const instead.(ÆäÜÀûÿÿÿÿ
+\javascript:S1121‰":Extract the assignment of "_effects" from this expression.(±«¤Âúÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(ŠÌ¢
+Kjavascript:S3504—")Unexpected var, use let or const instead.(½‘Îûÿÿÿÿ
+xjavascript:S6582£"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ËşŠ 
+Xjavascript:S1121£";Extract the assignment of "_sections" from this expression.(ËşŠ 
+Wjavascript:S1121£":Extract the assignment of "sections" from this expression.(ËşŠ 
+Kjavascript:S3504Å")Unexpected var, use let or const instead.(àË“áşÿÿÿÿ
+Kjavascript:S3504ß")Unexpected var, use let or const instead.(ü…€‚ûÿÿÿÿ
+Kjavascript:S3504õ")Unexpected var, use let or const instead.(ŠÔİıÿÿÿÿ
+Kjavascript:S3504ı")Unexpected var, use let or const instead.(®³“àùÿÿÿÿ
+Fjavascript:S3504ˆ")Unexpected var, use let or const instead.(üŒƒö
+}javascript:S6582¸"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Œçâœùÿÿÿÿ
+}javascript:S6582Ü"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(€°€øÿÿÿÿ
+xjavascript:S6582î"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(‹¬¡Ø
+Fjavascript:S3504ÿ")Unexpected var, use let or const instead.(èÄ¾ş
+Kjavascript:S3504Œ")Unexpected var, use let or const instead.(ƒãëºüÿÿÿÿ
+xjavascript:S6582“"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(í×¤ö
+xjavascript:S6582Í"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(·å¾Ò

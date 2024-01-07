@@ -1,7 +1,26 @@
 {
   "compilerOptions": {
+    "jsx": "react",
+    "tsx": "react",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": [
+        "./*"
+      ],
+      "@/components/*": [
+        "./src/components/*"
+      ],
+      "@/hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@/api/*": [
+        "./src/api/*"
+      ],
+      "@/utils/*": [
+        "./src/utils/*"
+      ],
+      "@/features/*": [
+        "./src/features/*"
+      ]
     }
   }
 }
